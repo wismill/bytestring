@@ -233,7 +233,7 @@ module Data.ByteString.Char8 (
 
 import qualified Prelude as P
 import Prelude hiding           (reverse,head,tail,last,init,null
-                                ,length,map,lines,foldl,foldr,unlines
+                                ,length,map,lines,foldl,foldl',foldr,unlines
                                 ,concat,any,take,drop,splitAt,takeWhile
                                 ,dropWhile,span,break,elem,filter,unwords
                                 ,words,maximum,minimum,all,concatMap

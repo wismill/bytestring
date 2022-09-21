@@ -232,7 +232,7 @@ import Data.Int (Int64)
 import qualified Data.List as List
 
 import Prelude hiding
-        (reverse,head,tail,last,init,null,length,map,lines,foldl,foldr,unlines
+        (reverse,head,tail,last,init,null,length,map,lines,foldl,foldl',foldr,unlines
         ,concat,any,take,drop,splitAt,takeWhile,dropWhile,span,break,elem,filter
         ,unwords,words,maximum,minimum,all,concatMap,scanl,scanl1,scanr,scanr1,foldl1,foldr1
         ,readFile,writeFile,appendFile,replicate,getContents,getLine,putStr,putStrLn
